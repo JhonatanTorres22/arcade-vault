@@ -14,3 +14,14 @@ https://github.com/Klerith/fernando-skills
 ```bash
 npx skills@latest add Klerith/fernando-skills
 ```
+
+## Comandos
+
+```bash
+npm run dev      # inicia el servidor de desarrollo (Turbopack, vía next dev)
+npm run build    # build de producción
+npm run start    # ejecuta el build de producción
+npm run lint     # eslint (flat config, eslint.config.mjs)
+```
+
+Todavía no hay configuración ni script de tests.
