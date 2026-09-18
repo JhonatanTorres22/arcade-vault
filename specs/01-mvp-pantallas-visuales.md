@@ -1,6 +1,6 @@
 # 01 — MVP: Pantallas visuales de Arcade Vault
 
-**Estado:** APROBADO
+**Estado:** IMPLEMENTADO
 **Depende de:** —
 **Fecha:** 2026-09-17
 
