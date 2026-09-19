@@ -1,6 +1,6 @@
 # 02 — Home (landing) y reubicación de Biblioteca a /juegos
 
-**Estado:** APROBADO
+**Estado:** IMPLEMENTADO
 **Depende de:** SPEC 01
 **Fecha:** 2026-09-18
 
