@@ -1,6 +1,6 @@
 # 03 — Acerca de (About) y envío real de correo de contacto con Resend
 
-**Estado:** APROBADO
+**Estado:** IMPLEMENTADO
 **Depende de:** SPEC 02
 **Fecha:** 2026-09-19
 
